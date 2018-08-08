@@ -1,0 +1,28 @@
+Command line:
+   light1_ob_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50972
+
+Wed Aug 08 17:55:40 2018
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 1049.71 Meg
+
+ Total Signals          : 8
+ Total Nets             : 19
+ Total Signal Drivers   : 5
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 4
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 406
+
+ Total Simulation Time: 0.3125 sec
+
+ Current Memory Usage: 893.215 Meg
+
+Wed Aug 08 17:57:11 2018
+

@@ -1,0 +1,6 @@
+V3 3
+FL "F:/FromDiskG/6th semester/ES/Light/Light.vhd" 2018/08/08.17:15:48 P.58f
+EN work/Light 1533727886 FL "F:/FromDiskG/6th semester/ES/Light/Light.vhd" \
+      PB ieee/std_logic_1164 1364358218 PB ieee/STD_LOGIC_UNSIGNED 1364358221
+AR work/Light/Behavioral 1533727887 \
+      FL "F:/FromDiskG/6th semester/ES/Light/Light.vhd" EN work/Light 1533727886
